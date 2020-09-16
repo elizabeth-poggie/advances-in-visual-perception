@@ -95,3 +95,7 @@
 - When the baby is young, the face is really blurred. after 3 months they can see more detail. as an adult they see the adult clearly.
 - the textbook is right because babies cannot see fine detail 
 - the textbook is wrong because the babies do not necessarily see the face as blurred. they would actually see a few blobs of sharp parts of the face. (they cannot see the detail fully)
+
+### Takeaways for the relationship between sensitivity and threshold
+- high contrast sensitivity is positive
+- low contrast threshold is also positive
