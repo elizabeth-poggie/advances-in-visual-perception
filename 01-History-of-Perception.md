@@ -1,4 +1,4 @@
-# Lecture 1
+# Lecture 1 - History of Perception
 
 ### Readings 
 
